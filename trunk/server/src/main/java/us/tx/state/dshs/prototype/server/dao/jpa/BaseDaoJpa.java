@@ -5,6 +5,7 @@ import us.tx.state.dshs.prototype.server.model.BaseModel;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import java.util.List;
 
 public abstract class BaseDaoJpa<M extends BaseModel> implements BaseDao<M> {
     @PersistenceContext

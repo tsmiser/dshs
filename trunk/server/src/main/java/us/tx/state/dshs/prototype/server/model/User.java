@@ -2,6 +2,7 @@ package us.tx.state.dshs.prototype.server.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+import org.codehaus.jackson.annotate.*;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
@@ -26,6 +27,7 @@ public class User extends BaseModel implements UserDetails {
         this.username = username;
     }
 
+    @JsonIgnore
     public String getPassword() {
         return password;
     }
@@ -34,6 +36,7 @@ public class User extends BaseModel implements UserDetails {
         this.password = password;
     }
 
+    @JsonIgnore
     public String getPasswordHash() {
         return passwordHash;
     }
@@ -68,30 +71,35 @@ public class User extends BaseModel implements UserDetails {
 
     @Override
     @Transient
+    @JsonIgnore
     public Collection<? extends GrantedAuthority> getAuthorities() {
         return null;
     }
 
     @Override
     @Transient
+    @JsonIgnore
     public boolean isAccountNonExpired() {
         return true;
     }
 
     @Override
     @Transient
+    @JsonIgnore
     public boolean isAccountNonLocked() {
         return true;
     }
 
     @Override
     @Transient
+    @JsonIgnore
     public boolean isCredentialsNonExpired() {
         return true;
     }
 
     @Override
     @Transient
+    @JsonIgnore
     public boolean isEnabled() {
         return true;
     }

@@ -6,6 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 import java.util.Date;
+import org.codehaus.jackson.annotate.*;
 
 @MappedSuperclass
 public class BaseModel implements Serializable {
@@ -23,6 +24,7 @@ public class BaseModel implements Serializable {
         this.id = id;
     }
 
+    @JsonIgnore
     public Date getCreationTime() {
         return creationTime;
     }
@@ -31,6 +33,7 @@ public class BaseModel implements Serializable {
         this.creationTime = creationTime;
     }
 
+    @JsonIgnore
     public Date getModificationTime() {
         return modificationTime;
     }
