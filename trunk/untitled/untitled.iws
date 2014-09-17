@@ -24,35 +24,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/js/gridgum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/model/DataTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-prototype.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/js/bootswatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/js/ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/src/main/webapp/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/controller/BaseController.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/controller/BaseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/jpa/BaseDaoJpa.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/jpa/BaseDaoJpa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/model/BaseModel.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/model/BaseModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/SpringAppMVC.iml" afterPath="$PROJECT_DIR$/../server/SpringAppMVC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/model/User.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/model/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/controller/UserController.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/controller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/UserDao.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/jpa/UserDaoJpa.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/dao/jpa/UserDaoJpa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/service/UserService.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/../server/src/main/java/us/tx/state/dshs/prototype/server/service/impl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/pom.xml" afterPath="$PROJECT_DIR$/../server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../server/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../server/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/../server/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled.iws" afterPath="$PROJECT_DIR$/untitled.iws" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410221454658" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410874106541" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410897367942" ignored="false" />
     <file path="$PROJECT_DIR$/../server/.idea/workspace.xml" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410286643884" ignored="false" />
     <file path="/fragment.java" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410221636710" ignored="false" />
     <file path="$PROJECT_DIR$/../../../a2c/ap2cloud/trunk/cloudcontrol/src/main/java/com/ap2cloud/controller/ApplicationController.java" changelist="ef77f98b-bbf2-43a9-8cd9-b7849746ca4b" time="1410875065562" ignored="false" />
